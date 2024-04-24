@@ -1,2 +1,1 @@
-**Live [Preview]([ReadMe](https://readme.com/)
-)**
+**Live [Preview](cv-build-resume.netlify.app)**
