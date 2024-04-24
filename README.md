@@ -1,1 +1,1 @@
-Live [Preview](cv-build-resume.netlify.app/)
+Live [Preview](www.google.com)
