@@ -1,1 +1,1 @@
-Live [Preview](www.google.com)
+[live preview](https://www.google.com)
