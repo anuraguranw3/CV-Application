@@ -1,1 +1,1 @@
-live [preview](https://www.google.com](https://cv-build-resume.netlify.app/)
+**live [preview](https://cv-build-resume.netlify.app/)**
